@@ -4,6 +4,5 @@ This is your first step.
 Create a Compute Engine instance
  
 gcloud compute instances create myinstance
-**command**
 
 `gcloud compute instances create myinstance`{{execute}}
