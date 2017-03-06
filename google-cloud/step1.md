@@ -16,10 +16,14 @@ SSH installation
 
 Installation de Nginx
 
-`sudo su -` 
+`sudo su -`
+
 `apt-get update`
+
 `apt-get install -y nginx``
+
 `service nginx start
+
 `exit`
 
 Test
