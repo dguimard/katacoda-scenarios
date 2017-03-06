@@ -5,4 +5,4 @@ Create a Compute Engine instance
  
 gcloud compute instances create myinstance
 
-`gcloud compute instances create myinstance`{{execute}}
+`gcloud compute instances create myinstance`
