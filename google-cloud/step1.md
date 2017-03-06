@@ -1,8 +1,7 @@
-This is your first step.
+Step 1
 
 ## Task
-Create a Compute Engine instance
- 
-gcloud compute instances create myinstance
+
+Création d'une instance de Compute Engine
 
 `gcloud compute instances create myinstance`
