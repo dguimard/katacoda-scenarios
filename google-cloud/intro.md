@@ -1,5 +1,6 @@
-Creation rapide et usage d'une instance Google Cloud Compute avecSpring Cloud, Kubernetes
+Google Cloud Compute ,Spring Cloud et Kubernetes
 
 1 - Création de l'instance.
+
 2 - Création du cluster.
 

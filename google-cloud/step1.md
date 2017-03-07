@@ -10,7 +10,7 @@ Création d'une instance de Compute Engine
 
 ## SSH installation
 
-`gcloud compute ssh iki`
+`gcloud compute ssh iki-1`
 
 ## Installation de Nginx
 
