@@ -6,3 +6,9 @@ Google Cloud Compute ,Spring Cloud et Kubernetes
 
 3 - Création d'un network pool.
 
+4 - Cleanup
+
+5 - Kubernetes
+
+ 
+
