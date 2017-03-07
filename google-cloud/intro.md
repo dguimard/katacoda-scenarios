@@ -4,5 +4,5 @@ Google Cloud Compute ,Spring Cloud et Kubernetes
 
 2 - Création du cluster.
 
-3 - Creation d'un network pool.
+3 - Création d'un network pool.
 
