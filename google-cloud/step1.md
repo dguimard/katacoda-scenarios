@@ -30,4 +30,4 @@ Création d'une instance de Compute Engine
 
 ## Liste des instances en execution.
 
-gcloud compute instances list
+`gcloud compute instances list`
