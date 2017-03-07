@@ -2,7 +2,7 @@ Step 1
 
 Création d'une instance de Compute Engine
 
-`gcloud compute instances create myinstance`
+`gcloud compute instances create iki-1`
 
 ## Activer le pare-feu pour le port 80
 
@@ -10,7 +10,7 @@ Création d'une instance de Compute Engine
 
 ## SSH installation
 
-`gcloud compute ssh myinstance`
+`gcloud compute ssh iki`
 
 ## Installation de Nginx
 
