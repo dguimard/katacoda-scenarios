@@ -1,6 +1,6 @@
-Step 1
+Step 2
 
-Création d'une instance de Compute Engine
+
 
 `gcloud compute instances create myinstance`
 
