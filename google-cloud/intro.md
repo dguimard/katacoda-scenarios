@@ -8,7 +8,7 @@ Google Cloud Compute ,Spring Cloud et Kubernetes
 
 4 - Cleanup
 
-5 - Kubernetes
+5 - Kubernetes avec Google Container
 
  
 

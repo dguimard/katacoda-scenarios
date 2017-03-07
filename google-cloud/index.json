@@ -2,16 +2,28 @@
   "title": "Google Cloud Introduction",
   "description": "Creation d'une simple instance",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "40 minutes",
   "details": {
     "steps": [
       {
         "title": "Instance Creation",
         "text": "step1.md"
       },
-       {
-        "title": "Cluster Creation",
+      {
+        "title": "Création du cluster",
         "text": "step2.md"
+      },
+      {
+        "title": "Création d'un network pool",
+        "text": "step3.md"
+      },
+      {
+        "title": "Cleanup",
+        "text": "step4.md"
+      },
+      {
+        "title": "Kubernetes avec Google Container",
+        "text": "step5.md"
       }
     ],
     "intro": {
