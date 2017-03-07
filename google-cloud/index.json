@@ -8,6 +8,10 @@
       {
         "title": "Instance Creation",
         "text": "step1.md"
+      },
+       {
+        "title": "Cluster Creation",
+        "text": "step2.md"
       }
     ],
     "intro": {
