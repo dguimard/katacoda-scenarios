@@ -1,5 +1,6 @@
 Step 4
 ## Cleanup
+
 `gcloud compute forwarding-rules delete nginx-lb`
 
 `gcloud compute instance-groups managed delete nginx-group`

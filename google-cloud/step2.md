@@ -8,13 +8,12 @@ Preparation du cluster
 
 ## Creation d'un fichier de boot pour nginx
 
---
-#! /bin/bash
-apt-get update
-apt-get install -y nginx
-service nginx start
-sed -i -- 's/nginx/Google Cloud Platform - '"$HOSTNAME"'/' /var/www/html/index.nginx-debian.html
---
+
+`#! /bin/bash`
+``apt-get update`
+apt-get install -y nginx`
+`service nginx start`
+`sed -i -- 's/nginx/Google Cloud Platform - '"$HOSTNAME"'/' /var/www/html/index.nginx-debian.html`
 
 `gcloud compute instances create nginx --metadata-from-file startup-script=startup.sh`
 
@@ -36,4 +35,5 @@ dans les étapes futures.gcloud compute target-pools create nginx-pool
 
 
 ## 3-Conclusion
+
 `gcloud compute instances list`
