@@ -1,7 +1,5 @@
 Step 1
 
-## Task
-
 Création d'une instance de Compute Engine
 
 `gcloud compute instances create myinstance`
@@ -22,9 +20,9 @@ Création d'une instance de Compute Engine
 
 `apt-get install -y nginx`
 
-`service nginx start
+`service nginx start`
 
 `exit`
 
 ## Test
-wget -q -O - localhost:80
+`wget -q -O - localhost:80`
